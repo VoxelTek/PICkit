@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PIC24FJ256GB106-I_PT")(type "KiCad")(uri "${KIPRJMOD}/Symbols/PIC24FJ256GB106-I_PT.kicad_sym")(options "")(descr ""))
+)
